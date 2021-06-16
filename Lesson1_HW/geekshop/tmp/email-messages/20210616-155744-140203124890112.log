@@ -1,0 +1,12 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Email confirmation
+From: django@geekshop.local
+To: sdf@mail.ry
+Date: Wed, 16 Jun 2021 10:57:44 -0000
+Message-ID: <162384106416.185687.11198637514958607746@ilya-HP-Pavilion>
+
+Для подтверждения учетной записи ilya10 на портале                 http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/sdf@mail.ry/626c63bcf8184448780ef0b3652d41a835493ff7/
+-------------------------------------------------------------------------------
