@@ -1,0 +1,12 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Email confirmation
+From: django@geekshop.local
+To: dsf@dsf.rt
+Date: Wed, 16 Jun 2021 11:09:55 -0000
+Message-ID: <162384179509.194647.7369431699966813922@ilya-HP-Pavilion>
+
+Для подтверждения учетной записи ilya13 на портале                 http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/dsf@dsf.rt/633af0efad3801991531cffc512eb391f3c6a12c/
+-------------------------------------------------------------------------------

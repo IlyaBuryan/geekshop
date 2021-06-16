@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0YPRh9C10YLQvdC+0Lkg0LfQsNC/?=
+ =?utf-8?b?0LjRgdC4IGlseWEz?=
+From: django@geekshop.local
+To: dsf@mndsf.tt
+Date: Wed, 16 Jun 2021 10:22:58 -0000
+Message-ID: <162383897898.162953.14875929085083152530@ilya-HP-Pavilion>
+
+Для подтверждения учетной записи ilya3 на портале http://localhost:8000 перейдите по ссылке: 
+http://localhost:8000/auth/verify/dsf@mndsf.tt/f7cff8228d80eddcd42acb41cf84d01cb737e3dd/
+-------------------------------------------------------------------------------
